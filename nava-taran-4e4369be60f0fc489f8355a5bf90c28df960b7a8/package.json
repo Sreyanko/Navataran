@@ -1,0 +1,17 @@
+{
+  "name": "nava-taran-root",
+  "version": "1.0.0",
+  "description": "NAVA-TARAN Project Root for Vercel Monorepo Deployment",
+  "scripts": {
+    "build": "cd client && npm install && npm run build"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@supabase/supabase-js": "^2.95.3",
+    "axios": "^1.13.5",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongodb": "^3.7.0"
+  }
+}

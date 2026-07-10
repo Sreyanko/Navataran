@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16b2fdb3.css",
+    "main.js": "/static/js/main.3ba07545.js",
+    "static/media/Space-background.png": "/static/media/Space-background.4e3fe83d795f5bed9f89.png",
+    "static/media/exoplanet.png": "/static/media/exoplanet.1e16f539190c931c6fb2.png",
+    "index.html": "/index.html",
+    "main.16b2fdb3.css.map": "/static/css/main.16b2fdb3.css.map",
+    "main.3ba07545.js.map": "/static/js/main.3ba07545.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b2fdb3.css",
+    "static/js/main.3ba07545.js"
+  ]
+}
